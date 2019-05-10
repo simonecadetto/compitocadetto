@@ -1,0 +1,103 @@
+commit 3b811f4e9954c13a6bde23cfe09c516dea6769f3
+Merge: 26c03b6 9fd3ecd
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:28:41 2019 +0200
+
+    FINE
+
+commit 9fd3ecd02fb3b7c8a2954b103adaae500750be36
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:25:00 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..0a4cfdb 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue;}
+\ No newline at end of file
+
+commit 26c03b6696d24373168c4095b3be863a379358a3
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:23:12 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f634001 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:red;}
+\ No newline at end of file
+
+commit 43af40a65bbc94358ac678df1ee35492e61826bf
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:21:11 2019 +0200
+
+    Inserita immagine per la pagina home
+
+diff --git a/img/immagine1.jpg b/img/immagine1.jpg
+new file mode 100644
+index 0000000..18a4d73
+Binary files /dev/null and b/img/immagine1.jpg differ
+
+commit 007309afd710eef0dbeb62520c8266c9e7bc84d2
+Merge: 57391d2 8670b89
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:17:38 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 8670b8956411ecf57abf349368ccc5ce36991ef5
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:16:35 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 4321fc9bf1b2292d7ec1988fc8850ab124bde9ce
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:15:09 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 8f2023caec9c6f51f08cc919822946f0fec25756
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:13:20 2019 +0200
+
+    Inserita Immagine
+
+diff --git a/img/immagine0.jpg b/img/immagine0.jpg
+new file mode 100644
+index 0000000..5a78830
+Binary files /dev/null and b/img/immagine0.jpg differ
+
+commit 57391d237f19ac824cb5f755920204ded3805dde
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:11:28 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 2552c852322ab9a5e70bdf0088a3888113f3ee5b
+Author: Simone Cadetto <cadetto.simone@gmail.com>
+Date:   Fri May 10 11:07:26 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
